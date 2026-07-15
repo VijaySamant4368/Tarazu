@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="TARAZU Logo" width="160">
+  <img src="assets/name.png" alt="TARAZU Logo" width="160">
 </p>
 
 # TARAZU
